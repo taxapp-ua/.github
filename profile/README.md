@@ -8,9 +8,9 @@
 
 | Репозиторій | Призначення | Стек |
 |---|---|---|
-| [`taxapp-api`](https://github.com/taxapp/taxapp-ua_backend) | Бекенд: моделі даних, інтеграція з НБУ, движок розрахунку податків, REST API | FastAPI, SQLAlchemy, Alembic, PostgreSQL |
-| [`taxapp-web`](https://github.com/taxapp/taxapp-ua_frontend) | Веб-дашборд: ввід доходу, перегляд зведення за квартал, дедлайни | React |
-| [`taxapp-bot`](https://github.com/taxapp/taxapp-ua_tgbot) | Месенджер-бот для вводу доходу та перегляду податків | Python, aiogram |
+| [`taxapp-api`](https://github.com/taxapp-ua/taxapp-ua_backend) | Бекенд: моделі даних, інтеграція з НБУ, движок розрахунку податків, REST API | FastAPI, SQLAlchemy, Alembic, PostgreSQL |
+| [`taxapp-web`](https://github.com/taxapp-ua/taxapp-ua_frontend) | Веб-дашборд: ввід доходу, перегляд зведення за квартал, дедлайни | React |
+| [`taxapp-bot`](https://github.com/taxapp-ua/taxapp-ua_tgbot) | Месенджер-бот для вводу доходу та перегляду податків | Python, aiogram |
 
 ## Як це працює
 
